@@ -7,9 +7,7 @@
   
 
 - 🔭 I’m currently working on 
-[Youtube-uI-Clone ](https://github.com/Nihal-pratap-singh/Youtube-UI-Design)
-  
-  
+full stack ecommerce website with mern stck technology
 
 - 🌱 I’m currently Pursuing a bachelor's degree at  MCRP University , Bhopal  
   
